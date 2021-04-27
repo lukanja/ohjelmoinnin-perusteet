@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht10_2", "teht10_2\teht10_2.csproj", "{FD917EFE-7944-4E6E-BC76-7AAECD905739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD917EFE-7944-4E6E-BC76-7AAECD905739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD917EFE-7944-4E6E-BC76-7AAECD905739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD917EFE-7944-4E6E-BC76-7AAECD905739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD917EFE-7944-4E6E-BC76-7AAECD905739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778A53FB-1F73-4A69-9773-628D57BA3201}
+	EndGlobalSection
+EndGlobal
