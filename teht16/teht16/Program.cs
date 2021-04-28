@@ -5,7 +5,7 @@ namespace teht16
     class Program
     {
         static void Main(string[] args)
-        { string weekday = "0";
+        { string weekday = "";
 
             while (weekday != "quit")
             {
